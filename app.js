@@ -6,9 +6,9 @@ const API_URL = "https://script.google.com/macros/s/AKfycbzkh3NVxtTl9wIm9Zj_mVJH
 
 // 集計対象の年月（日付ドロップダウンはこの月で固定）
 const YEAR = 2026;
-const MONTH = 3;
+const MONTH = 4;
 const DAY_MIN = 1;
-const DAY_MAX = 31;
+const DAY_MAX = 30;
 
 // ローディングアニメーションの最大時間（ミリ秒）
 const LOADING_DURATION_MS = 20000; // 
