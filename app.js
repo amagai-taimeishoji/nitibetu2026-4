@@ -2,7 +2,7 @@
 
 /* ---------------- 設定（必ず確認・変更する部分） ---------------- */
 // Google Apps Script の公開 exec URL（その月のものに差し替えてください）
-const API_URL = "https://script.google.com/macros/s/AKfycbzkh3NVxtTl9wIm9Zj_mVJH9UrK16fBCKuLuXejcY309lz3PtFOvbtfq2a9XaIKtHRR/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbxAWOi5ZStZjKuxb2l_I7tX16qsQSupmuIu-mXLoQaTvPdNrMWMQzvrj2RqgR8upnZ_Kw/exec";
 
 // 集計対象の年月（日付ドロップダウンはこの月で固定）
 const YEAR = 2026;
